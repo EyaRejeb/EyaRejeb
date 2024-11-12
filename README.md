@@ -53,15 +53,15 @@
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Eya's GitHub stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EyaRejeb&show_icons=true&theme=radical" alt="Eya's GitHub stats" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Eya's Streak Stats" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eyarejeb&theme=radical" alt="Eya's Streak Stats" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyaRejeb&layout=compact&theme=radical" alt="Top Languages" width="500"/>
 </p>
 
 ---
