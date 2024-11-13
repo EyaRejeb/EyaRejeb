@@ -6,9 +6,10 @@
 🌟 **About Me** 🌟
 
 - 👩‍💻 I'm a software developer with a keen interest in technology.
-- 📍 Originally from Tunisia, I'm now based in France.
+- 📍 Originally from Tunisia, & Currently in France.
 - 💼 I bring experience in MERN stack development and a strong design sensibility.
 - 🎓 Bachelor’s Degree in Computer Science | ISITCom Hammam Sousse.
+- 📚 Currently pursuing an Engineering degree in E-Health.
 - 🌍 Fueled by the art of problem-solving, I bring creativity and precision to every line of code I write.
 
 ---
